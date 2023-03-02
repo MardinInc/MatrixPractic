@@ -1,0 +1,15 @@
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\bin\Debug\net7.0\KramerMethod.exe
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\bin\Debug\net7.0\KramerMethod.deps.json
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\bin\Debug\net7.0\KramerMethod.runtimeconfig.json
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\bin\Debug\net7.0\KramerMethod.dll
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\bin\Debug\net7.0\KramerMethod.pdb
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\obj\Debug\net7.0\KramerMethod.csproj.AssemblyReference.cache
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\obj\Debug\net7.0\KramerMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\obj\Debug\net7.0\KramerMethod.AssemblyInfoInputs.cache
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\obj\Debug\net7.0\KramerMethod.AssemblyInfo.cs
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\obj\Debug\net7.0\KramerMethod.csproj.CoreCompileInputs.cache
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\obj\Debug\net7.0\KramerMethod.dll
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\obj\Debug\net7.0\refint\KramerMethod.dll
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\obj\Debug\net7.0\KramerMethod.pdb
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\obj\Debug\net7.0\KramerMethod.genruntimeconfig.cache
+C:\Users\dinar\source\repos\KramerMethod\KramerMethod\obj\Debug\net7.0\ref\KramerMethod.dll
