@@ -1,0 +1,15 @@
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\bin\Debug\net7.0\ThirdPracticsMatrix.exe
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\bin\Debug\net7.0\ThirdPracticsMatrix.deps.json
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\bin\Debug\net7.0\ThirdPracticsMatrix.runtimeconfig.json
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\bin\Debug\net7.0\ThirdPracticsMatrix.dll
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\bin\Debug\net7.0\ThirdPracticsMatrix.pdb
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\obj\Debug\net7.0\ThirdPracticsMatrix.csproj.AssemblyReference.cache
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\obj\Debug\net7.0\ThirdPracticsMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\obj\Debug\net7.0\ThirdPracticsMatrix.AssemblyInfoInputs.cache
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\obj\Debug\net7.0\ThirdPracticsMatrix.AssemblyInfo.cs
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\obj\Debug\net7.0\ThirdPracticsMatrix.csproj.CoreCompileInputs.cache
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\obj\Debug\net7.0\ThirdPracticsMatrix.dll
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\obj\Debug\net7.0\refint\ThirdPracticsMatrix.dll
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\obj\Debug\net7.0\ThirdPracticsMatrix.pdb
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\obj\Debug\net7.0\ThirdPracticsMatrix.genruntimeconfig.cache
+C:\Users\dinar\source\repos\ThirdPracticsMatrix\ThirdPracticsMatrix\obj\Debug\net7.0\ref\ThirdPracticsMatrix.dll
